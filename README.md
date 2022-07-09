@@ -1,7 +1,6 @@
-
-
-Можно сделать это командой git/clone https://github.com/werewolfs1/App-Parse.git
-Либо скачать архив
+Для добавления приложения:
+1) Можно сделать это командой git/clone https://github.com/werewolfs1/App-Parse.git ;
+2) Либо скачать архив;
 
 Конфигурация приложения сервера должна соответствовать:
 1) HTTP - Apache_2.4-PHP_7.2-7.4;
