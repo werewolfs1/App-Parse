@@ -11,8 +11,9 @@
 Есть возможность Импортировать настроенную таблицу из папки SQLTable
 
 Настройка свой таблицы
-id->INT->UNSIGNED->PRIMARY->АВТОИНКРЕМЕНИТИРОВАНИЕ
-articul->VARCHAR(255)
-product_name->VARCHAR(255)->NULL
-price->VARCHAR(255)->NULL
-remains>VARCHAR(255)->NULL
+
+1) id->INT->UNSIGNED->PRIMARY->АВТОИНКРЕМЕНИТИРОВАНИЕ
+2) articul->VARCHAR(255)
+3) product_name->VARCHAR(255)->NULL
+4) price->VARCHAR(255)->NULL
+5) remains>VARCHAR(255)->NULL
